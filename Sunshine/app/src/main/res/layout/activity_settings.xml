@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:id="@+id/weather_settings_container"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent" />-->
+    <!-- COMPLETED (7) Make the SettingsFragment the root layout for SettingsActivity for using preferences-->
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+android:name="com.example.sunshine.SettingsFragment"
+android:id="@+id/weather_settings_fragment"
+android:layout_width="match_parent"
+android:layout_height="match_parent" />
