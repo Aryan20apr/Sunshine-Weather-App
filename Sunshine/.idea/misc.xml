@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Projects/Developing Android Apps/ud851-Sunshine-student/S10.01-Exercise-SynchronizingTheWeather/app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="..\:/Android_Projects/Developing Android Apps/ud851-Sunshine-student/S10.01-Exercise-SynchronizingTheWeather/app/src/main/res/layout/activity_forecast.xml" value="0.1" />
+        <entry key="..\:/Android_Projects/Developing Android Apps/ud851-Sunshine-student/S10.01-Exercise-SynchronizingTheWeather/app/src/main/res/layout/activity_settings.xml" value="0.1" />
+        <entry key="..\:/Android_Projects/Developing Android Apps/ud851-Sunshine-student/S10.01-Exercise-SynchronizingTheWeather/app/src/main/res/layout/forecast_list_item.xml" value="1.0" />
+        <entry key="..\:/Android_Projects/Developing Android Apps/ud851-Sunshine-student/S10.01-Exercise-SynchronizingTheWeather/app/src/main/res/layout/list_item_forecast_today.xml" value="0.1" />
+        <entry key="..\:/Android_Projects/Developing Android Apps/ud851-Sunshine-student/Sunshine/app/src/main/res/drawable/today_touch_selector.xml" value="0.1" />
+        <entry key="..\:/Android_Projects/Developing Android Apps/ud851-Sunshine-student/Sunshine/app/src/main/res/drawable/touch_selector.xml" value="0.1" />
+        <entry key="..\:/Android_Projects/Developing Android Apps/ud851-Sunshine-student/Sunshine/app/src/main/res/layout-land/activity_detail.xml" value="0.136" />
+        <entry key="..\:/Android_Projects/Developing Android Apps/ud851-Sunshine-student/Sunshine/app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="..\:/Android_Projects/Developing Android Apps/ud851-Sunshine-student/Sunshine/app/src/main/res/layout/activity_forecast.xml" value="0.21354166666666666" />
+        <entry key="..\:/Android_Projects/Developing Android Apps/ud851-Sunshine-student/Sunshine/app/src/main/res/layout/extra_weather_details.xml" value="0.264" />
+        <entry key="..\:/Android_Projects/Developing Android Apps/ud851-Sunshine-student/Sunshine/app/src/main/res/layout/forecast_list_item.xml" value="0.1" />
+        <entry key="..\:/Android_Projects/Developing Android Apps/ud851-Sunshine-student/Sunshine/app/src/main/res/layout/list_item_forecast_today.xml" value="0.1" />
+        <entry key="..\:/Android_Projects/Developing Android Apps/ud851-Sunshine-student/Sunshine/app/src/main/res/layout/primary_weather_info.xml" value="0.2" />
+        <entry key="..\:/Android_Projects/Sunshine/app/src/main/res/drawable/splash_screen_background.xml" value="0.124" />
+        <entry key="..\:/Android_Projects/Sunshine/app/src/main/res/drawable/touch_selector.xml" value="0.171" />
+        <entry key="..\:/Android_Projects/Sunshine/app/src/main/res/layout/activity_detail.xml" value="0.14351851851851852" />
+        <entry key="..\:/Android_Projects/Sunshine/app/src/main/res/layout/activity_forecast.xml" value="0.14351851851851852" />
+        <entry key="..\:/Android_Projects/Sunshine/app/src/main/res/layout/activity_settings.xml" value="0.14351851851851852" />
+        <entry key="..\:/Android_Projects/Sunshine/app/src/main/res/layout/activity_splash_screen.xml" value="0.176" />
+        <entry key="..\:/Android_Projects/Sunshine/app/src/main/res/layout/extra_weather_details.xml" value="0.21770833333333334" />
+        <entry key="..\:/Android_Projects/Sunshine/app/src/main/res/layout/forecast_list_item.xml" value="0.14351851851851852" />
+        <entry key="..\:/Android_Projects/Sunshine/app/src/main/res/layout/list_item_forecast_today.xml" value="0.21770833333333334" />
+        <entry key="..\:/Android_Projects/Sunshine/app/src/main/res/layout/primary_weather_info.xml" value="0.21770833333333334" />
+        <entry key="..\:/Android_Projects/Sunshine/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.124" />
+        <entry key="..\:/Android_Projects/Sunshine/app/src/main/res/xml/pref_general.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
